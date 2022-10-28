@@ -6,7 +6,7 @@
   <!-- <a href="https://SPAExample.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">SPA/h1>
+<h1 align="center">SPA Example </h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/SPAExample?color=56BEB8">
